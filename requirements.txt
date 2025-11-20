@@ -13,6 +13,7 @@ hachoir
 motor==3.3.2
 pillow==9.5.0
 psutil
+colorama
 py-tgcalls==0.9.7
 pykeyboard
 pymongo==4.6.3
